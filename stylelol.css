@@ -1,0 +1,13 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cuerpo
+{
+    background: linear-gradient(55deg, rgb(157, 90, 63) 0%, rgb(44, 40, 35) 94%);
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
